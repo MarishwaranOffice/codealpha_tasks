@@ -77,5 +77,4 @@ Make sure Python 3.x is installed. Tkinter comes pre-installed with standard Pyt
 
 ## Submission Ready
 - All three projects are complete and verified  
-- GUI apps include full user interaction, validations, file saving, and logging  
-- This code is ready for Top 1 rank submission according to CodeAlpha rules
+- GUI apps include full user interaction, validations, file saving, and logging
